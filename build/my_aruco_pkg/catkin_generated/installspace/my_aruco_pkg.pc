@@ -1,0 +1,8 @@
+prefix=/noetic_ws/install
+
+Name: my_aruco_pkg
+Description: Description of my_aruco_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

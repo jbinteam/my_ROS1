@@ -1,0 +1,2 @@
+my_aruco_pkg
+-DCATKIN_DEVEL_PREFIX=/noetic_ws/devel -DCMAKE_INSTALL_PREFIX=/noetic_ws/install -G Unix Makefiles
